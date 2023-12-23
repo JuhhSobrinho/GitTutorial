@@ -50,4 +50,5 @@ Ex: segundo commit e git já iniciado:
 > [!TIP]
 > 1. `git branch` informa a branch atual e quais **branch's** tem.<br>
 > 1. `git branch -v` informa a branch atual, quais **branch's** tem e qual commits tem/ no caso o ultimo commit. <br>
-> 1. `git log` mostra autor da alteração, data e qual commit.
+> 1. `git log` mostra autor da alteração, data e qual commit.<br>
+> 1. `git reset` caso cometa algum erro de add ou commit, o reset ira resetar o ultimo commit e add que tenha feito.
