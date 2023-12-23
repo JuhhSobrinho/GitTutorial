@@ -7,7 +7,7 @@
 1. `git remote add origin "url do repositorio"` para passar a conexão do repositorio local para o repositorio do git<br>
 1. `git push -u origin main` para enviar as modificações no repositorio.
 
- EX:
+***EX:Primeiro commit***
 ><sub> `git init `</sub><br>
 ><sub> `git add *`</sub><br>
 ><sub> `git commit -m "primeiro arquivo index"`</sub><br>
@@ -16,9 +16,9 @@
 ><sub> `git push -U origin main`</sub><br>
 
 > [!NOTE]
-> Após dar o primeito init, branch -M e git remote, não sera necessario dar novamente no mesmo respositorio local.
+> **Após dar o primeito init, branch -M e git remote,** não sera necessario dar novamente no mesmo respositorio local.
 
-Ex: segundo commit e git já iniciado:
+***Ex: segundo commit e git já iniciado:***
 ><sub> `git add *`</sub><br>
 ><sub> `git commit -m "Adicinando responsividade`</sub><br>
 ><sub> `git push -U origin main`</sub><br>
