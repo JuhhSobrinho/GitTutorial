@@ -10,16 +10,24 @@
  EX:
 ><sub> `git init `</sub><br>
 ><sub> `git add *`</sub><br>
-><sub> `git commit -m "Adicinando responsividade`</sub><br>
+><sub> `git commit -m "primeiro arquivo index"`</sub><br>
 ><sub> `git branch -M main`</sub><br>
-><sub> `git add *`</sub><br>
 ><sub> `git remote add origin "https://github.com/JuhhSobrinho/GitTutorial.git"`</sub><br>
+><sub> `git push -U origin main`</sub><br>
 
 > [!NOTE]
-> Após dar o init, não sera necessario dar **git init** novamente na mesma pasta. Assim para o proximo, começar direto pelo **git add .**
+> Após dar o primeito init, branch -M e git remote, não sera necessario dar novamente no mesmo respositorio local.
+
+Ex segundo commit e git já iniciado:
+><sub> `git init `</sub><br>
+><sub> `git add *`</sub><br>
+><sub> `git commit -m "Adicinando responsividade`</sub><br>
+><sub> `git push -U origin main`</sub><br>
 
 ---
-
+<br>
+<br>
+<br>
 
 > [!CAUTION]
 > caso ainda não tenha feito o respositorio no **GitHub**, não ira funcionar.
