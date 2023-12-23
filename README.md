@@ -15,4 +15,4 @@
 
 
 > [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
+> caso ainda não tenha feito o respositorio no **GitHub**, não ira funcionar.
