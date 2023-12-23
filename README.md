@@ -53,6 +53,7 @@
 > 1. `git log` mostra autor da alteração, data e qual commit.<br>
 > 1. `git reset` caso cometa algum erro de add ou commit, o reset ira resetar o ultimo commit e add que tenha feito.
 > 1. `git clone "url do repositorio"` para clonar seu repositório ou algum repositório publico.
+> 1. `git clone "url do repositorio" --branch novaBranch --single-branch` para clonar uma branch especifica ou alguma branch especifica publica.
 
 
 ---
