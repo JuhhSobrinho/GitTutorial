@@ -28,7 +28,7 @@ Ex: segundo commit e git já iniciado:
 <br>
 <br>
 
-> [!IMPORTANT] GIT PULL
+> [!IMPORTANT+GIT-PULL]
 > Caso tenha feito alteração direto no GitHub, será necessario dar o **GIT PULL**
 
 1. `git pull` ao contrario do push que adiciona modificações ao GitHub, o **git pull** adiciona as modificações do GitHub ao repositório local.
