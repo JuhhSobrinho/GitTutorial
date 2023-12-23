@@ -11,6 +11,9 @@
 ><sub> `git commit -m "Adicinando responsividade`</sub><br>
 ><sub> `git push -u origin main`</sub><br>
 
+> [!NOTE]
+> Após dar o init, não sera necessario dar **git init** novamente na mesma pasta. Assim para o proximo, começar direto pelo **git add .**
+
 ---
 
 
