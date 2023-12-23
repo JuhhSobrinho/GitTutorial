@@ -26,7 +26,6 @@ Ex: segundo commit e git já iniciado:
 ---
 <br>
 <br>
-<br>
 
 > [!IMPORTANT]
 > Caso tenha feito alteração direto no GitHub, será necessario dar o **`GIT PULL`**
@@ -39,7 +38,6 @@ Ex: segundo commit e git já iniciado:
 ---
 <br>
 <br>
-<br>
 
 ## Criação de outra Branch
 > 1. `git checkout -b novaBranch` para cria outra branch, cujo o nome nesse caso é **novaBranch**.
@@ -48,8 +46,6 @@ Ex: segundo commit e git já iniciado:
 > 1. `git branch -d novaBranch` após mesclagem, caso queira **deletar a branch**, usa esse comando, no caso a branch "novaBranch" será deletada.
 
 ---
-<br>
-<br>
 <br>
 <br>
 <br>
