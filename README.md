@@ -34,4 +34,27 @@ Ex: segundo commit e git já iniciado:
 1. `git pull` ao contrario do push que adiciona modificações ao GitHub, o **git pull** adiciona as modificações do GitHub ao repositório local.
 
 1. Assim caso tenha feito alteração no codigo, pelo GitHub ou até mesmo por outra maquina, é necessario dar git pull para atualizar seu repositório local.
+<br>
+<br>
+---
+<br>
+<br>
+<br>
 
+## Criação de outra Branch
+> 1. `git checkout -b novaBranch` para cria outra branch, cujo o nome nesse caso é **novaBranch**.
+> 1. `git checkout main` para voltar para branch **main**.
+> 1. `git merge novaBranch` estando dentro da main, com o comando **git merge** escolhemos qual branch queremos mesclar/juntar.
+> 1. `git branch -d novaBranch` após mesclagem, caso queira **deletar a branch**, usa esse comando, no caso a branch "novaBranch" será deletada.
+
+---
+<br>
+<br>
+<br>
+<br>
+<br>
+
+> [!TIP]
+> 1. `git branch` informa a branch atual e quais **branch's** tem.<br>
+> 1. `git branch -v` informa a branch atual, quais **branch's** tem e qual commits tem/ no caso o ultimo commit. <br>
+> 1. `git log` mostra autor da alteração, data e qual commit.
