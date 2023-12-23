@@ -28,15 +28,12 @@ Ex: segundo commit e git já iniciado:
 <br>
 
 > [!IMPORTANT]
-> Caso tenha feito alteração direto no GitHub, será necessario dar o **`GIT PULL`**
-
-1. `git pull` ao contrario do push que adiciona modificações ao GitHub, o **git pull** adiciona as modificações do GitHub ao repositório local.
-
-1. Assim caso tenha feito alteração no codigo, pelo GitHub ou até mesmo por outra maquina, é necessario dar git pull para atualizar seu repositório local.
+> Caso tenha feito alteração direto no GitHub, será necessario dar o **`GIT PULL`**<br>
+> 1. `git pull` ao contrario do push que adiciona modificações ao GitHub, o **git pull** adiciona as modificações do GitHub ao repositório local.<br>
+> 1. Assim caso tenha feito alteração no codigo, pelo GitHub ou até mesmo por outra maquina, é necessario dar git pull para atualizar seu repositório local.
 <br>
 
 ---
-<br>
 <br>
 
 ## Criação de outra Branch
