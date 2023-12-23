@@ -22,7 +22,7 @@ Ex: segundo commit e git já iniciado:
 ><sub> `git add *`</sub><br>
 ><sub> `git commit -m "Adicinando responsividade`</sub><br>
 ><sub> `git push -U origin main`</sub><br>
-
+<br>
 ---
 <br>
 <br>
@@ -46,7 +46,7 @@ Ex: segundo commit e git já iniciado:
 > 1. `git checkout main` para voltar para branch **main**.
 > 1. `git merge novaBranch` estando dentro da main, com o comando **git merge** escolhemos qual branch queremos mesclar/juntar.
 > 1. `git branch -d novaBranch` após mesclagem, caso queira **deletar a branch**, usa esse comando, no caso a branch "novaBranch" será deletada.
-
+<br>
 ---
 <br>
 <br>
