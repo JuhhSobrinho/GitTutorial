@@ -52,3 +52,16 @@ Ex: segundo commit e git já iniciado:
 > 1. `git branch -v` informa a branch atual, quais **branch's** tem e qual commits tem/ no caso o ultimo commit. <br>
 > 1. `git log` mostra autor da alteração, data e qual commit.<br>
 > 1. `git reset` caso cometa algum erro de add ou commit, o reset ira resetar o ultimo commit e add que tenha feito.
+
+
+---
+<br>
+
+### comando para terminal
+
+> [!TIP]
+> 1. `cd` acessa diretorios "cd .\model\"  ou sai deles "cd .."<br>
+> 1. `ls` lista tudo que tem no seu diretorio<br>
+> 1. `touch` criar aquivo com extenção desejada, tipo .cpp, html, css etc<br>
+> 1. `mkdir` criar diretorio<br>
+> 1. `rkdir` deletar diretorios vazios<br>
