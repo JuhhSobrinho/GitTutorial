@@ -1,2 +1,2 @@
 # GitTutorial
-Comando basicos do Git
+## Inicializando Git e dando primeiro commit
