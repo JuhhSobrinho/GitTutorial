@@ -14,5 +14,5 @@
 ---
 
 
-> [!TIP]
-> Helpful advice for doing things better or more easily.
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
