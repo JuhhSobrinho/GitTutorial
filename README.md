@@ -1,9 +1,9 @@
 # GitTutorial
 ## Inicializando Git e dando primeiro commit
-[^1]: `git init` para **inicializar** o repositorio<br>
-[^2]: `git add .` para separar os arquivos para o **commit**<br>
-[^3]: `git commit -m "primeiro commit"` para dar o real commit com sua mensagem e preparação para o **push**<br>
-[^4]: `git push -u origin main` para enviar as modificações no repositorio
+[^1]:>>`git init` para **inicializar** o repositorio<br>
+[^2]:>>`git add .` para separar os arquivos para o **commit**<br>
+[^3]:>>`git commit -m "primeiro commit"` para dar o real commit com sua mensagem e preparação para o **push**<br>
+[^4]:>>`git push -u origin main` para enviar as modificações no repositorio
 
  EX:
 ><sub> `git init `</sub><br>
