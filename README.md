@@ -18,8 +18,7 @@
 > [!NOTE]
 > Após dar o primeito init, branch -M e git remote, não sera necessario dar novamente no mesmo respositorio local.
 
-Ex segundo commit e git já iniciado:
-><sub> `git init `</sub><br>
+Ex: segundo commit e git já iniciado:
 ><sub> `git add *`</sub><br>
 ><sub> `git commit -m "Adicinando responsividade`</sub><br>
 ><sub> `git push -U origin main`</sub><br>
@@ -29,5 +28,4 @@ Ex segundo commit e git já iniciado:
 <br>
 <br>
 
-> [!CAUTION]
-> caso ainda não tenha feito o respositorio no **GitHub**, não ira funcionar.
+
