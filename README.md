@@ -37,7 +37,7 @@
 <br>
 
 ## Criação de outra Branch
-> 1. `git checkout -b novaBranch` para cria outra branch, cujo o nome nesse caso é **novaBranch**.
+> 1. `git branch novaBranch` para cria outra branch, cujo o nome nesse caso é **novaBranch**.
 > 1. `git checkout main` para voltar para branch **main**.
 > 1. `git merge novaBranch` estando dentro da main, com o comando **git merge** escolhemos qual branch queremos mesclar/juntar.
 > 1. `git branch -d novaBranch` após mesclagem, caso queira **deletar a branch**, usa esse comando, no caso a branch "novaBranch" será deletada.
